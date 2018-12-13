@@ -1,0 +1,2 @@
+# GreenLemon-ThinkMoney
+AutomationTests
